@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ONI",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2026-01-14T08:43:24.320872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yasashiku Oni Ni",
+      "artist": "DADARAY",
+      "has_synced": true,
+      "path": "select/01_Yasashiku_Oni_Ni_DADARAY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Naita aka Oni",
+      "artist": "Billy Cobb",
+      "has_synced": false,
+      "path": "select/02_Naita_aka_Oni_Billy_Cobb.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONI",
+      "artist": "Pyrokinesis",
+      "has_synced": true,
+      "path": "select/03_ONI_Pyrokinesis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oni Nas Gadjaju",
+      "artist": "Daleka Obala",
+      "has_synced": true,
+      "path": "select/04_Oni_Nas_Gadjaju_Daleka_Obala.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oni",
+      "artist": "Darko US",
+      "has_synced": true,
+      "path": "select/05_Oni_Darko_US.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oni-san Kochira [おにさんこちら]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/06_Oni-san_Kochira_[おにさんこちら]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oni",
+      "artist": "Đorđe Balašević",
+      "has_synced": false,
+      "path": "select/07_Oni_Đorđe_Balašević.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fuku Wa Uchi Oni Wa Soto",
+      "artist": "Haruomi Hosono",
+      "has_synced": false,
+      "path": "select/08_Fuku_Wa_Uchi_Oni_Wa_Soto_Haruomi_Hosono.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fuku Ha Uchi Oni Ha Soto",
+      "artist": "Haruomi Hosono",
+      "has_synced": false,
+      "path": "select/09_Fuku_Ha_Uchi_Oni_Ha_Soto_Haruomi_Hosono.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oni-Chan!",
+      "artist": "Others by No One",
+      "has_synced": false,
+      "path": "select/10_Oni-Chan!_Others_by_No_One.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oni su",
+      "artist": "Beogradski Sindikat",
+      "has_synced": true,
+      "path": "select/11_Oni_su_Beogradski_Sindikat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "#FREETRAFFIK (feat. Traffik & Oni One)",
+      "artist": "Dark Polo Gang feat. Traffik & Oni One",
+      "has_synced": true,
+      "path": "select/12_FREETRAFFIK_(feat._Traffik_&_Oni_One)_Dark_Polo_Gang_feat._Traffik_&_Oni_One.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oni chcą Ciebie",
+      "artist": "Kült",
+      "has_synced": true,
+      "path": "select/13_Oni_chcą_Ciebie_Kült.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONI",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_ONI_jon-YAKITORY.txt"
+    }
+  ]
+}
